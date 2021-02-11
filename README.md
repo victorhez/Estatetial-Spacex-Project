@@ -11,4 +11,4 @@ https://github.com/victorhez/Estatetial-Spacex-Project/blob/main/Screenshot6.png
 https://github.com/victorhez/Estatetial-Spacex-Project/blob/main/Screenshot7.png
 https://github.com/victorhez/Estatetial-Spacex-Project/blob/main/Screenshot8.png
 https://github.com/victorhez/Estatetial-Spacex-Project/blob/main/Screenshot9.png
-<img src="./Screenshot3.png">
+<img src="./Screenshot3.png" width="100", height="100">
