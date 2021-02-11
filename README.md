@@ -1,4 +1,13 @@
 # Estatetial-Spacex-Project
  This project gives us details of missions of SpaceX  using a Flutter framework
-![Screenshot](screenshot2.png)
-https://github.com/github//Estatetial-Spacex-Project/screenshot1.png
+
+https://github.com/victorhez/Estatetial-Spacex-Project/blob/main/Screenshot1.png
+https://github.com/victorhez/Estatetial-Spacex-Project/blob/main/Screenshot10.png
+https://github.com/victorhez/Estatetial-Spacex-Project/blob/main/Screenshot2.png
+https://github.com/victorhez/Estatetial-Spacex-Project/blob/main/Screenshot3.png
+https://github.com/victorhez/Estatetial-Spacex-Project/blob/main/Screenshot4.png
+https://github.com/victorhez/Estatetial-Spacex-Project/blob/main/Screenshot5.png
+https://github.com/victorhez/Estatetial-Spacex-Project/blob/main/Screenshot6.png
+https://github.com/victorhez/Estatetial-Spacex-Project/blob/main/Screenshot7.png
+https://github.com/victorhez/Estatetial-Spacex-Project/blob/main/Screenshot8.png
+https://github.com/victorhez/Estatetial-Spacex-Project/blob/main/Screenshot9.png
